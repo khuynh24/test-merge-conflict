@@ -2,4 +2,4 @@ sushi
 pizza
 potatoes
 mac and cheese
-pepper
+salt
