@@ -1,5 +1,10 @@
 sushi
 pizza
 potatoes
+<<<<<<< HEAD
 mac and cheese
 salt
+=======
+mac and no cheese
+pepper
+>>>>>>> c47351d2b65661de7b0df324ea60530e0b9267be
